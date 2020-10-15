@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\blaze\source\repos\PrimeNumberCalculator\PrimeNumberCalculator\include\gtk-3.0\gtk\gtk.h(30,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'gdk/gdk.h': No such file or directory
