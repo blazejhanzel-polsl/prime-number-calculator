@@ -1,4 +1,5 @@
-﻿  PrimeNumberCalculator.cpp
+﻿  uic PrimeNumberCalculator.ui
+  PrimeNumberCalculator.cpp
   main.cpp
   moc_PrimeNumberCalculator.cpp
-  PrimeNumberCalculator.vcxproj -> C:\Users\blaze\source\repos\PrimeNumberCalculator\x64\Debug\PrimeNumberCalculator.exe
+  PrimeNumberCalculator.vcxproj -> C:\Users\blaze\source\repos\PrimeNumberCalculator\build\PrimeNumberCalculator.exe

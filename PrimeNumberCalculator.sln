@@ -4,17 +4,45 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PrimeNumberCalculator", "PrimeNumberCalculator\PrimeNumberCalculator.vcxproj", "{93170697-C73C-4013-9D67-06AE1A6F2FD7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9E0A9794-6579-4042-AD1D-155423A34B73} = {9E0A9794-6579-4042-AD1D-155423A34B73}
+		{7240E0E3-3E1A-4750-828E-3933103E104D} = {7240E0E3-3E1A-4750-828E-3933103E104D}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PrimeNumberAlgorithmCpp", "PrimeNumberAlgorithmCpp\PrimeNumberAlgorithmCpp.vcxproj", "{7240E0E3-3E1A-4750-828E-3933103E104D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PrimeNumberAlgorithmAsm", "PrimeNumberAlgorithmAsm\PrimeNumberAlgorithmAsm.vcxproj", "{9E0A9794-6579-4042-AD1D-155423A34B73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
 		Release|x64 = Release|x64
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{93170697-C73C-4013-9D67-06AE1A6F2FD7}.Debug|x64.ActiveCfg = Debug|x64
 		{93170697-C73C-4013-9D67-06AE1A6F2FD7}.Debug|x64.Build.0 = Debug|x64
+		{93170697-C73C-4013-9D67-06AE1A6F2FD7}.Debug|x86.ActiveCfg = Debug|x64
 		{93170697-C73C-4013-9D67-06AE1A6F2FD7}.Release|x64.ActiveCfg = Release|x64
 		{93170697-C73C-4013-9D67-06AE1A6F2FD7}.Release|x64.Build.0 = Release|x64
+		{93170697-C73C-4013-9D67-06AE1A6F2FD7}.Release|x86.ActiveCfg = Release|x64
+		{7240E0E3-3E1A-4750-828E-3933103E104D}.Debug|x64.ActiveCfg = Debug|x64
+		{7240E0E3-3E1A-4750-828E-3933103E104D}.Debug|x64.Build.0 = Debug|x64
+		{7240E0E3-3E1A-4750-828E-3933103E104D}.Debug|x86.ActiveCfg = Debug|Win32
+		{7240E0E3-3E1A-4750-828E-3933103E104D}.Debug|x86.Build.0 = Debug|Win32
+		{7240E0E3-3E1A-4750-828E-3933103E104D}.Release|x64.ActiveCfg = Release|x64
+		{7240E0E3-3E1A-4750-828E-3933103E104D}.Release|x64.Build.0 = Release|x64
+		{7240E0E3-3E1A-4750-828E-3933103E104D}.Release|x86.ActiveCfg = Release|Win32
+		{7240E0E3-3E1A-4750-828E-3933103E104D}.Release|x86.Build.0 = Release|Win32
+		{9E0A9794-6579-4042-AD1D-155423A34B73}.Debug|x64.ActiveCfg = Debug|x64
+		{9E0A9794-6579-4042-AD1D-155423A34B73}.Debug|x64.Build.0 = Debug|x64
+		{9E0A9794-6579-4042-AD1D-155423A34B73}.Debug|x86.ActiveCfg = Debug|Win32
+		{9E0A9794-6579-4042-AD1D-155423A34B73}.Debug|x86.Build.0 = Debug|Win32
+		{9E0A9794-6579-4042-AD1D-155423A34B73}.Release|x64.ActiveCfg = Release|x64
+		{9E0A9794-6579-4042-AD1D-155423A34B73}.Release|x64.Build.0 = Release|x64
+		{9E0A9794-6579-4042-AD1D-155423A34B73}.Release|x86.ActiveCfg = Release|Win32
+		{9E0A9794-6579-4042-AD1D-155423A34B73}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
