@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  Algorithm.cpp
+C:\Users\blaze\Desktop\git\PrimeNumberCalculator\PrimeNumberAlgorithmCpp\Algorithm.cpp(21,27): warning C4273: 'isPrimeNumber': inconsistent dll linkage
+C:\Users\blaze\Desktop\git\PrimeNumberCalculator\PrimeNumberAlgorithmCpp\pch.h(28,20): message : see previous definition of 'isPrimeNumber'
+  dllmain.cpp
+     Creating library C:\Users\blaze\Desktop\git\PrimeNumberCalculator\build\PNA-CPP.lib and object C:\Users\blaze\Desktop\git\PrimeNumberCalculator\build\PNA-CPP.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PrimeNumberAlgorithmCpp.vcxproj -> C:\Users\blaze\Desktop\git\PrimeNumberCalculator\build\PNA-CPP.dll

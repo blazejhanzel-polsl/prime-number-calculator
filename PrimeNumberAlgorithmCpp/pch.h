@@ -1,4 +1,11 @@
-﻿// pch.h: wstępnie skompilowany plik nagłówka.
+﻿/*
+Temat projektu: Kalkulator liczb pierwszych
+Opis: Aplikacja służy do wyznaczania liczb pierwszych z zakresu podanego przez użytkownika.
+Semestr 5, Rok akademicki 2020/2021
+Hanzel Błażej gr. 2
+*/
+
+// pch.h: wstępnie skompilowany plik nagłówka.
 // Wymienione poniżej pliki są kompilowane tylko raz, co poprawia wydajność kompilacji dla przyszłych kompilacji.
 // Ma to także wpływ na wydajność funkcji IntelliSense, w tym uzupełnianie kodu i wiele funkcji przeglądania kodu.
 // Jednak WSZYSTKIE wymienione tutaj pliki będą ponownie kompilowane, jeśli którykolwiek z nich zostanie zaktualizowany między kompilacjami.

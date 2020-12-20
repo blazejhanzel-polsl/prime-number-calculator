@@ -1,4 +1,2 @@
-﻿  Algorithm.cpp
-C:\Users\blaze\source\repos\PrimeNumberCalculator\PrimeNumberAlgorithmCpp\Algorithm.cpp(4,27): warning C4273: 'isPrimeNumber': inconsistent dll linkage
-C:\Users\blaze\source\repos\PrimeNumberCalculator\PrimeNumberAlgorithmCpp\pch.h(21,20): message : see previous definition of 'isPrimeNumber'
-  PrimeNumberAlgorithmCpp.vcxproj -> C:\Users\blaze\source\repos\PrimeNumberCalculator\build\PNA-CPP.dll
+﻿     Creating library C:\Users\blaze\Desktop\git\PrimeNumberCalculator\build\PNA-CPP.lib and object C:\Users\blaze\Desktop\git\PrimeNumberCalculator\build\PNA-CPP.exp
+  PrimeNumberAlgorithmCpp.vcxproj -> C:\Users\blaze\Desktop\git\PrimeNumberCalculator\build\PNA-CPP.dll
